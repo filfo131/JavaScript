@@ -1,5 +1,2 @@
-$auto: {
-    width: 20;
-    length: 205;
-    color: red
-}
+
+"<center><h1>JavaScript</h1></center>"
